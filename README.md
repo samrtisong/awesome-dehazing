@@ -32,7 +32,6 @@ This repository is the collection of dehazing methods. Among various dehazing al
     - Zhang, He, and Vishal M. Patel. "Densely connected pyramid dehazing network." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018.
 - (5) Multi-band Enhancement [[Code](https://github.com/irapkaist/multi-band-enhancement), [Paper](http://irap.kaist.ac.kr/index.php/Main/Publication?action=bibentry&bibfile=ref.bib&bibref=ycho-2018-ral)]
     - Cho, Younggun, Jinyong Jeong, and Ayoung Kim. "Model Assisted Multi-band Fusion for Single Image Enhancement and Applications to Robot Vision." IEEE Robotics and Automation Letters (2018).
-  - Baseline for single image dehazing [[Code](https://github.com/nightldj/dehaze_release), [Paper](http://bmvc2018.org/contents/papers/0821.pdf)]
 - (6) Dehaze cGAN [[Code](https://github.com/hong-ye/dehaze-cGAN), [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Single_Image_Dehazing_CVPR_2018_paper.pdf)]
     - Li, Runde, et al. "Single Image Dehazing via Conditional Generative Adversarial Network." methods 3 (2018): 24.
 - (7) GFN Dehazing [[Code](https://github.com/rwenqi/GFN-dehazing), [Paper](https://arxiv.org/abs/1804.00213)]
