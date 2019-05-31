@@ -17,7 +17,7 @@ This repository is the collection of dehazing methods. Among various dehazing al
 ## Dehazing methods
 
 ### Single image dehazing
-- Generic Model-Agnostic Convolutional Neural Network for Single Image Dehazing [[Code](https://github.com/hezhangsprinter/DCPDN), [Paper](https://arxiv.org/abs/1810.02862)]
+- Generic Model-Agnostic Convolutional Neural Network for Single Image Dehazing [[Code](https://github.com/Seanforfun/GMAN_Net_Haze_Removal), [Paper](https://arxiv.org/abs/1810.02862)]
     - Zheng Liu, Botao Xiao, Muhammad Alrabeiah, Keyan Wang, Jun Chen. "Generic Model-Agnostic Convolutional Neural Network for Single Image Dehazing." IEEE Signal Processing Letters. Vol.26. No.6 (2019): 833--837.
 - Densely Connected Pyramid Dehazing Network [[Code](https://github.com/hezhangsprinter/DCPDN), [Paper](https://arxiv.org/abs/1803.08396)]
     - Zhang, He, and Vishal M. Patel. "Densely connected pyramid dehazing network." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018.
