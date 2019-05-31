@@ -18,31 +18,31 @@ This repository is the collection of dehazing methods. Among various dehazing al
 
 ### Single image dehazing
 - 2019
-    - Generic Model-Agnostic Convolutional Neural Network for Single Image Dehazing [[Code](https://github.com/Seanforfun/GMAN_Net_Haze_Removal), [Paper](https://arxiv.org/abs/1810.02862)]
-        - Zheng Liu, Botao Xiao, et al. "Generic Model-Agnostic Convolutional Neural Network for Single Image Dehazing." IEEE Signal Processing Letters. Vol.26. No.6 (2019): 833--837.
+- (1) Generic Model-Agnostic Convolutional Neural Network for Single Image Dehazing [[Code](https://github.com/Seanforfun/GMAN_Net_Haze_Removal), [Paper](https://arxiv.org/abs/1810.02862)]
+    - Zheng Liu, Botao Xiao, et al. "Generic Model-Agnostic Convolutional Neural Network for Single Image Dehazing." IEEE Signal Processing Letters. Vol.26. No.6 (2019): 833--837.
  
  - 2018   
- - Strong Baseline for Single Image Dehazing with Deep Features and Instance Normalization [[Code](https://github.com/nightldj/dehaze_release), [Paper](https://arxiv.org/abs/1805.03305)]
+ - (2) Strong Baseline for Single Image Dehazing with Deep Features and Instance Normalization [[Code](https://github.com/nightldj/dehaze_release), [Paper](https://arxiv.org/abs/1805.03305)]
     - Zheng Xu, Xitong Yang, Xue Li, Xiaoshuai Sun. "Strong Baseline for Single Image Dehazing with Deep Features and Instance Normalization." BMVC 2018.
 
- - Single Image Haze Removal using a Generative Adversarial Network [[Code](https://github.com/thatbrguy/Dehaze-GAN), [Paper](https://arxiv.org/abs/1810.09479)]
+ - (3) Single Image Haze Removal using a Generative Adversarial Network [[Code](https://github.com/thatbrguy/Dehaze-GAN), [Paper](https://arxiv.org/abs/1810.09479)]
     - Bharath Raj N., Venkateswaran N. "Single Image Haze Removal using a Generative Adversarial Network."  2018.
 
-- Densely Connected Pyramid Dehazing Network [[Code](https://github.com/hezhangsprinter/DCPDN), [Paper](https://arxiv.org/abs/1803.08396)]
+- (4) Densely Connected Pyramid Dehazing Network [[Code](https://github.com/hezhangsprinter/DCPDN), [Paper](https://arxiv.org/abs/1803.08396)]
     - Zhang, He, and Vishal M. Patel. "Densely connected pyramid dehazing network." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018.
-- Multi-band Enhancement [[Code](https://github.com/irapkaist/multi-band-enhancement), [Paper](http://irap.kaist.ac.kr/index.php/Main/Publication?action=bibentry&bibfile=ref.bib&bibref=ycho-2018-ral)]
+- (5) Multi-band Enhancement [[Code](https://github.com/irapkaist/multi-band-enhancement), [Paper](http://irap.kaist.ac.kr/index.php/Main/Publication?action=bibentry&bibfile=ref.bib&bibref=ycho-2018-ral)]
     - Cho, Younggun, Jinyong Jeong, and Ayoung Kim. "Model Assisted Multi-band Fusion for Single Image Enhancement and Applications to Robot Vision." IEEE Robotics and Automation Letters (2018).
   - Baseline for single image dehazing [[Code](https://github.com/nightldj/dehaze_release), [Paper](http://bmvc2018.org/contents/papers/0821.pdf)]
-- Dehaze cGAN [[Code](https://github.com/hong-ye/dehaze-cGAN), [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Single_Image_Dehazing_CVPR_2018_paper.pdf)]
+- (6) Dehaze cGAN [[Code](https://github.com/hong-ye/dehaze-cGAN), [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Single_Image_Dehazing_CVPR_2018_paper.pdf)]
     - Li, Runde, et al. "Single Image Dehazing via Conditional Generative Adversarial Network." methods 3 (2018): 24.
-- GFN Dehazing [[Code](https://github.com/rwenqi/GFN-dehazing), [Paper](https://arxiv.org/abs/1804.00213)]
+- (7) GFN Dehazing [[Code](https://github.com/rwenqi/GFN-dehazing), [Paper](https://arxiv.org/abs/1804.00213)]
     - Ren, Wenqi, et al. "Gated fusion network for single image dehazing." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
 
 - 2017
 - AOD-net [[Code](https://github.com/Boyiliee/AOD-Net), [Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_AOD-Net_All-In-One_Dehazing_ICCV_2017_paper.pdf)]
     - Li, Boyi, et al. "Aod-net: All-in-one dehazing network." Proceedings of the IEEE International Conference on Computer Vision. Vol. 1. No. 4. 2017.
 
--2016
+- 2016
 - Non-local Image Dehazing [[Code](http://www.eng.tau.ac.il/~berman/NonLocalDehazing/), [Paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Berman_Non-Local_Image_Dehazing_CVPR_2016_paper.html)]
     - Berman, Dana, and Shai Avidan. "Non-local image dehazing." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.
 - Dehazenet [[Code](https://github.com/caibolun/DehazeNet), [Paper](https://arxiv.org/abs/1601.07661)]
@@ -62,7 +62,7 @@ This repository is the collection of dehazing methods. Among various dehazing al
 - Dehazing using Color-lines [[Code](http://www.cs.huji.ac.il/~raananf/projects/dehaze_cl/), [Paper](https://dl.acm.org/citation.cfm?id=2651362)]
     - Fattal, Raanan. "Dehazing using color-lines." ACM transactions on graphics (TOG) 34.1 (2014): 13.
 
--2013
+- 2013
 - Multi-scale Fusion [[Code (Third person)](https://kr.mathworks.com/matlabcentral/fileexchange/47147-image-dehazing-zip), [Paper](http://ieeexplore.ieee.org/abstract/document/6514885/)]
     - Ancuti, Codruta Orniana, and Cosmin Ancuti. "Single image dehazing by multi-scale fusion." IEEE Transactions on Image Processing 22.8 (2013): 3271-3282.
 - Boudary Constraint and Contextual Regularization [[Code](http://www.escience.cn/people/menggaofeng/research.html), [Paper](http://www.escience.cn/system/file?fileId=65063)]
@@ -77,7 +77,7 @@ This repository is the collection of dehazing methods. Among various dehazing al
 - Fast Visibility Restoration [[Code](http://www.sciweavers.org/sourcecode/matlab-source-code-visibility-restoration-single-image), [Paper](http://ieeexplore.ieee.org/abstract/document/5459251/)]
     - Tarel, Jean-Philippe, and Nicolas Hautiere. "Fast visibility restoration from a single color or gray level image." Computer Vision, 2009 IEEE 12th International Conference on. IEEE, 2009.
 
--2008
+- 2008
 - Single Image Dehazing [[Code](http://www.cs.huji.ac.il/~raananf/projects/defog/), [Paper]((http://www.cs.huji.ac.il/~raananf/projects/defog/))]
     - Fattal, Raanan. "Single image dehazing." ACM transactions on graphics (TOG) 27.3 (2008): 72.
 
