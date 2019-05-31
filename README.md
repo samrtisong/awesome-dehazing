@@ -22,7 +22,10 @@ This repository is the collection of dehazing methods. Among various dehazing al
     
  - Strong Baseline for Single Image Dehazing with Deep Features and Instance Normalization [[Code](https://github.com/nightldj/dehaze_release), [Paper](https://arxiv.org/abs/1805.03305)]
     - Zheng Xu, Xitong Yang, Xue Li, Xiaoshuai Sun. "Strong Baseline for Single Image Dehazing with Deep Features and Instance Normalization." BMVC 2018.
-    
+
+ - Single Image Haze Removal using a Generative Adversarial Network [[Code](https://github.com/thatbrguy/Dehaze-GAN), [Paper](https://arxiv.org/abs/1810.09479)]
+    - Bharath Raj N., Venkateswaran N. "Single Image Haze Removal using a Generative Adversarial Network."  2018.
+
 - Densely Connected Pyramid Dehazing Network [[Code](https://github.com/hezhangsprinter/DCPDN), [Paper](https://arxiv.org/abs/1803.08396)]
     - Zhang, He, and Vishal M. Patel. "Densely connected pyramid dehazing network." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018.
 - Multi-band Enhancement [[Code](https://github.com/irapkaist/multi-band-enhancement), [Paper](http://irap.kaist.ac.kr/index.php/Main/Publication?action=bibentry&bibfile=ref.bib&bibref=ycho-2018-ral)]
