@@ -19,6 +19,8 @@ This repository is the collection of dehazing methods. Among various dehazing al
 ### Single image dehazing
 - Densely Connected Pyramid Dehazing Network [[Code](https://github.com/hezhangsprinter/DCPDN), [Paper](https://arxiv.org/abs/1803.08396)]
     - Zhang, He, and Vishal M. Patel. "Densely connected pyramid dehazing network." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018.
+- Densely Connected Pyramid Dehazing Network [[Code](https://github.com/hezhangsprinter/DCPDN), [Paper](https://arxiv.org/abs/1803.08396)]
+    - Zhang, He, and Vishal M. Patel. "Densely connected pyramid dehazing network." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018.
 - Multi-band Enhancement [[Code](https://github.com/irapkaist/multi-band-enhancement), [Paper](http://irap.kaist.ac.kr/index.php/Main/Publication?action=bibentry&bibfile=ref.bib&bibref=ycho-2018-ral)]
     - Cho, Younggun, Jinyong Jeong, and Ayoung Kim. "Model Assisted Multi-band Fusion for Single Image Enhancement and Applications to Robot Vision." IEEE Robotics and Automation Letters (2018).
   - Baseline for single image dehazing [[Code](https://github.com/nightldj/dehaze_release), [Paper](http://bmvc2018.org/contents/papers/0821.pdf)]
