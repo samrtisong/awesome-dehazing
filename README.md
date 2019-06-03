@@ -68,7 +68,7 @@ This repository is the collection of dehazing methods. Among various dehazing al
     - Meng, Gaofeng, et al. "Efficient image dehazing with boundary constraint and contextual regularization." Proceedings of the IEEE international conference on computer vision. 2013.
 - Optimized Contrast Enhancement [[Code](http://mcl.korea.ac.kr/projects/dehazing/), [Paper](http://mcl.korea.ac.kr/~dotol1216/Publications/2013_JVCIR_JHKIM.pdf)]
     - Kim, Jin-Hwan, et al. "Optimized contrast enhancement for real-time image and video dehazing." Journal of Visual Communication and Image Representation 24.3 (2013): 410-425.
-- 2011
+#### 2011
 - Dark Channel Prior [[Code (Third person)]( https://kr.mathworks.com/matlabcentral/fileexchange/46147-single-image-haze-removal-using-dark-channel-prior), [Paper](http://kaiminghe.com/cvpr09/index.html)]
     - He, Kaiming, Jian Sun, and Xiaoou Tang. "Single image haze removal using dark channel prior." IEEE transactions on pattern analysis and machine intelligence 33.12 (2011): 2341-2353.
     
