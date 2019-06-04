@@ -36,6 +36,10 @@ This repository is the collection of dehazing methods. Among various dehazing al
 
 - Densely Connected Pyramid Dehazing Network [[Code](https://github.com/hezhangsprinter/DCPDN), [Paper](https://arxiv.org/abs/1803.08396)]
     - Zhang, He, and Vishal M. Patel. "Densely connected pyramid dehazing network." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018.
+    
+- Image Dehazing by Joint Estimation of Transmittance and Airlight using Bi-Directional Consistency Loss Minimized FCN [[Code](https://github.com/ranjanZ/CVPR2018_Dehazing), [Paper](http://san-santra.github.io/cvpr18w_dehaze/ntire18_paper.pdf)]
+    - Mondal, Ranjan and Santra, et al. "Image Dehazing by Joint Estimation of Transmittance and Airlight using Bi-Directional Consistency Loss Minimized FCN." CVPR workshop, 2018.
+    
 - Multi-band Enhancement [[Code](https://github.com/irapkaist/multi-band-enhancement), [Paper](http://irap.kaist.ac.kr/index.php/Main/Publication?action=bibentry&bibfile=ref.bib&bibref=ycho-2018-ral)]
     - Cho, Younggun, Jinyong Jeong, and Ayoung Kim. "Model Assisted Multi-band Fusion for Single Image Enhancement and Applications to Robot Vision." IEEE Robotics and Automation Letters (2018).
 - Dehaze cGAN [[Code](https://github.com/hong-ye/dehaze-cGAN), [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Single_Image_Dehazing_CVPR_2018_paper.pdf)]
