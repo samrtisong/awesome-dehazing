@@ -18,23 +18,26 @@ This repository is the collection of dehazing methods. Among various dehazing al
 
 ### Single image dehazing
 #### 2019
-- (1) Generic Model-Agnostic Convolutional Neural Network for Single Image Dehazing [[Code](https://github.com/Seanforfun/GMAN_Net_Haze_Removal), [Paper](https://arxiv.org/abs/1810.02862)]
+- Generic Model-Agnostic Convolutional Neural Network for Single Image Dehazing [[Code](https://github.com/Seanforfun/GMAN_Net_Haze_Removal), [Paper](https://arxiv.org/abs/1810.02862)]
     - Zheng Liu, Botao Xiao, et al. "Generic Model-Agnostic Convolutional Neural Network for Single Image Dehazing." IEEE Signal Processing Letters. Vol.26. No.6 (2019): 833--837.
+    
+- Perceptually Optimized Generative Adversarial Network for Single Image Dehazing [[Code](https://github.com/yixindu1573/Recursive-Image-Dehazing-via-Perceptually-Optimized-Generative-Adversarial-Network-POGAN), [Paper](https://arxiv.org/abs/1805.01084)]
+    - Zheng Liu, Botao Xiao, et al. "Perceptually Optimized Generative Adversarial Network for Single Image Dehazing." CVPR Workshop ,2019.
  
 #### 2018   
- - (2) Strong Baseline for Single Image Dehazing with Deep Features and Instance Normalization [[Code](https://github.com/nightldj/dehaze_release), [Paper](https://arxiv.org/abs/1805.03305)]
+ - Strong Baseline for Single Image Dehazing with Deep Features and Instance Normalization [[Code](https://github.com/nightldj/dehaze_release), [Paper](https://arxiv.org/abs/1805.03305)]
     - Zheng Xu, Xitong Yang, Xue Li, Xiaoshuai Sun. "Strong Baseline for Single Image Dehazing with Deep Features and Instance Normalization." BMVC 2018.
 
- - (3) Single Image Haze Removal using a Generative Adversarial Network [[Code](https://github.com/thatbrguy/Dehaze-GAN), [Paper](https://arxiv.org/abs/1810.09479)]
+ - Single Image Haze Removal using a Generative Adversarial Network [[Code](https://github.com/thatbrguy/Dehaze-GAN), [Paper](https://arxiv.org/abs/1810.09479)]
     - Bharath Raj N., Venkateswaran N. "Single Image Haze Removal using a Generative Adversarial Network."  2018.
 
-- (4) Densely Connected Pyramid Dehazing Network [[Code](https://github.com/hezhangsprinter/DCPDN), [Paper](https://arxiv.org/abs/1803.08396)]
+- Densely Connected Pyramid Dehazing Network [[Code](https://github.com/hezhangsprinter/DCPDN), [Paper](https://arxiv.org/abs/1803.08396)]
     - Zhang, He, and Vishal M. Patel. "Densely connected pyramid dehazing network." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018.
-- (5) Multi-band Enhancement [[Code](https://github.com/irapkaist/multi-band-enhancement), [Paper](http://irap.kaist.ac.kr/index.php/Main/Publication?action=bibentry&bibfile=ref.bib&bibref=ycho-2018-ral)]
+- Multi-band Enhancement [[Code](https://github.com/irapkaist/multi-band-enhancement), [Paper](http://irap.kaist.ac.kr/index.php/Main/Publication?action=bibentry&bibfile=ref.bib&bibref=ycho-2018-ral)]
     - Cho, Younggun, Jinyong Jeong, and Ayoung Kim. "Model Assisted Multi-band Fusion for Single Image Enhancement and Applications to Robot Vision." IEEE Robotics and Automation Letters (2018).
-- (6) Dehaze cGAN [[Code](https://github.com/hong-ye/dehaze-cGAN), [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Single_Image_Dehazing_CVPR_2018_paper.pdf)]
+- Dehaze cGAN [[Code](https://github.com/hong-ye/dehaze-cGAN), [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Single_Image_Dehazing_CVPR_2018_paper.pdf)]
     - Li, Runde, et al. "Single Image Dehazing via Conditional Generative Adversarial Network." methods 3 (2018): 24.
-- (7) GFN Dehazing [[Code](https://github.com/rwenqi/GFN-dehazing), [Paper](https://arxiv.org/abs/1804.00213)]
+- GFN Dehazing [[Code](https://github.com/rwenqi/GFN-dehazing), [Paper](https://arxiv.org/abs/1804.00213)]
     - Ren, Wenqi, et al. "Gated fusion network for single image dehazing." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
 
 #### 2017
