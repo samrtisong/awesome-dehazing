@@ -25,7 +25,7 @@ This repository is the collection of dehazing methods. Among various dehazing al
     - Yixin Du, Xin Li. "Perceptually Optimized Generative Adversarial Network for Single Image Dehazing." CVPR Workshop ,2019.
     
 - Feature Forwarding for Efficient Image Dehazing [[Code](https://github.com/pmm09c/ntire-dehazing), [Paper](https://arxiv.org/abs/1904.09059)]
-    - Peter Morales, Tzofi Klinghoffer, et al. "Feature Forwarding for Efficient Image Dehazing." CVPR Workshop ,2019.
+    - Peter Morales, Tzofi Klinghoffer, et al. "Feature Forwarding for Efficient Image Dehazing." NTIRE ,2019.
  
 #### 2018   
  - Strong Baseline for Single Image Dehazing with Deep Features and Instance Normalization [[Code](https://github.com/nightldj/dehaze_release), [Paper](https://arxiv.org/abs/1805.03305)]
