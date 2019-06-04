@@ -22,7 +22,10 @@ This repository is the collection of dehazing methods. Among various dehazing al
     - Zheng Liu, Botao Xiao, et al. "Generic Model-Agnostic Convolutional Neural Network for Single Image Dehazing." IEEE Signal Processing Letters. Vol.26. No.6 (2019): 833--837.
     
 - Perceptually Optimized Generative Adversarial Network for Single Image Dehazing [[Code](https://github.com/yixindu1573/Recursive-Image-Dehazing-via-Perceptually-Optimized-Generative-Adversarial-Network-POGAN), [Paper](https://arxiv.org/abs/1805.01084)]
-    - Zheng Liu, Botao Xiao, et al. "Perceptually Optimized Generative Adversarial Network for Single Image Dehazing." CVPR Workshop ,2019.
+    - Yixin Du, Xin Li. "Perceptually Optimized Generative Adversarial Network for Single Image Dehazing." CVPR Workshop ,2019.
+    
+- Feature Forwarding for Efficient Image Dehazing [[Code](https://github.com/pmm09c/ntire-dehazing), [Paper](https://arxiv.org/abs/1904.09059)]
+    - Peter Morales, Tzofi Klinghoffer, et al. "Feature Forwarding for Efficient Image Dehazing." CVPR Workshop ,2019.
  
 #### 2018   
  - Strong Baseline for Single Image Dehazing with Deep Features and Instance Normalization [[Code](https://github.com/nightldj/dehaze_release), [Paper](https://arxiv.org/abs/1805.03305)]
