@@ -26,6 +26,9 @@ This repository is the collection of dehazing methods. Among various dehazing al
     
 - Feature Forwarding for Efficient Image Dehazing [[Code](https://github.com/pmm09c/ntire-dehazing), [Paper](https://arxiv.org/abs/1904.09059)]
     - Peter Morales, Tzofi Klinghoffer, et al. "Feature Forwarding for Efficient Image Dehazing." NTIRE ,2019.
+    
+- Enhanced Pix2pix Dehazing Network [[Code](https://github.com/ErinChen1/EPDN), [Paper](https:None)]
+    - Yanyun Qu, Yizi Chen, et al. "Enhanced Pix2pix Dehazing Network." CVPR ,2019.
  
 #### 2018   
  - Strong Baseline for Single Image Dehazing with Deep Features and Instance Normalization [[Code](https://github.com/nightldj/dehaze_release), [Paper](https://arxiv.org/abs/1805.03305)]
