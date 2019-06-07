@@ -18,7 +18,7 @@ This repository is the collection of dehazing methods. Among various dehazing al
 
 ### Single image dehazing
 #### 2019
-- Generic Model-Agnostic Convolutional Neural Network for Single Image Dehazing [[Code](https://github.com/Seanforfun/GMAN_Net_Haze_Removal), [Paper](https://arxiv.org/abs/1810.02862)]
+- GMAN_Net for Single Image Dehazing [[Code](https://github.com/Seanforfun/GMAN_Net_Haze_Removal), [Paper](https://arxiv.org/abs/1810.02862)]
     - Zheng Liu, Botao Xiao, et al. "Generic Model-Agnostic Convolutional Neural Network for Single Image Dehazing." IEEE Signal Processing Letters. Vol.26. No.6 (2019): 833--837.
     
 - Perceptually Optimized Generative Adversarial Network for Single Image Dehazing [[Code](https://github.com/yixindu1573/Recursive-Image-Dehazing-via-Perceptually-Optimized-Generative-Adversarial-Network-POGAN), [Paper](https://arxiv.org/abs/1805.01084)]
